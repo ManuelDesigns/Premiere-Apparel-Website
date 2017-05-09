@@ -1,0 +1,12 @@
+:hover{
+
+}
+hr {
+  display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: 15em;
+margin-right: 15em;
+border-style: inset;
+border-width: 1px;
+}
